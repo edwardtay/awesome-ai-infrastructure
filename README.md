@@ -240,7 +240,7 @@ Commercial services are listed separately because their evidence and selection c
 | [Amazon Web Services](https://aws.amazon.com/compute/)                    | Broad compute catalog, regional coverage, and enterprise integrations             | Complex pricing, quotas, and egress.                                                    |
 | [Google Cloud](https://cloud.google.com/products/compute)                 | Data, Kubernetes, AI accelerators, and high-performance networking                | Product and quota availability varies by region.                                        |
 | [Microsoft Azure](https://azure.microsoft.com/products/category/compute/) | Microsoft-centric enterprises, hybrid infrastructure, and procurement             | Service naming and operational complexity.                                              |
-| [Alibaba Cloud](https://www.alibabacloud.com/en/product/ecs)              | Workloads serving China and the wider Asia-Pacific region                         | International and mainland China accounts, compliance, and service availability differ. |
+| [Alibaba Cloud](https://www.alibabacloud.com/campaign/benefits?referral_code=A924QL)              | Workloads serving China and the wider Asia-Pacific region                         | International and mainland China accounts, compliance, and service availability differ. |
 | [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/compute/)      | Oracle estates, bare metal, high-performance networking, and enterprise workloads | A smaller ecosystem and regional footprint than the three largest providers.            |
 
 ### GPU Cloud
@@ -335,3 +335,5 @@ An entry should:
 - Add a meaningful choice rather than duplicate an existing project.
 - Use an official project, documentation, or repository link.
 - Include a concise description that explains why someone would choose it.
+
+<sub>Some links are referral links.</sub>
