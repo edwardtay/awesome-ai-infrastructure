@@ -259,6 +259,7 @@ Commercial services are listed separately because their evidence and selection c
 | Provider                                                | Best for                                          | Main caveat                                                                          |
 | ------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [Modal](https://modal.com/)                             | Python-defined serverless CPU and GPU workloads   | Application architecture becomes provider-specific.                                  |
+| [QIT](https://qit.energy/)                               | Serverless GPUs (scale-to-zero Pods) and multi-modal Model API | Also offers reserved GPUs and physical GPU containers; confirm region coverage. |
 | [Baseten](https://www.baseten.co/)                      | Managed production model serving                  | Managed convenience costs more than operating the full stack yourself.               |
 | [Replicate](https://replicate.com/)                     | Calling packaged models through a simple API      | Less infrastructure control and potentially higher unit cost.                        |
 | [Beam](https://www.beam.cloud/)                         | Python-first serverless GPU applications          | Smaller ecosystem and service surface.                                               |
