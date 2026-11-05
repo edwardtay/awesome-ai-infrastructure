@@ -253,6 +253,7 @@ Commercial services are listed separately because their evidence and selection c
 | [Crusoe](https://www.crusoe.ai/)                  | Large-scale AI infrastructure and energy-aware deployments                    | Primarily oriented toward larger customers.                                                        |
 | [Vast.ai](https://vast.ai/)                       | Price-sensitive access to marketplace GPU capacity                            | Hardware quality, uptime, and networking vary by host.                                             |
 | [Prime Intellect](https://www.primeintellect.ai/) | GPU pods, sandboxes, hosted training, and reinforcement-learning environments | The open repository is a CLI and SDK for a managed platform, not a decentralized training runtime. |
+| [QIT](https://qit.energy/)                          | Serverless/reserved GPUs, Model API, and liquid-cooled GPU containers         | Newer provider; confirm capacity and regions for your workload.                                    |
 
 ### Serverless AI Compute
 
