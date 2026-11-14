@@ -2,6 +2,15 @@
 
 Thanks for helping improve the list.
 
+## Inclusion bar
+
+A pull request is merged when the tool meets one of these:
+
+- **Open source:** at least 100 GitHub stars and a commit in the last 12 months.
+- **Commercial service:** at least a year in operation and independent coverage, reviews or a known user base.
+
+Self-submitted listings for new or small commercial services are closed, and so are tools whose main use is abuse (spam sign-ups, account takeover, harassment). Submitting your own project is welcome when it meets the bar. Referral deals and paid placement do not change it.
+
 ## Before You Submit
 
 Search the README for the project name, repository URL, and close alternatives. A project may already appear in a different category.
